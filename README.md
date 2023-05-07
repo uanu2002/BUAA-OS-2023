@@ -13,9 +13,15 @@
 *   README.md: 题面及说明
 *   对应代码
 
+
+
+## Pre OS的预备知识
+
+课下：
+
 ## Lab0 Linux、Git、make 等基础知识
 
-xxx
+课下：
 
 ## Lab1 内核制作、启动和 printf
 
